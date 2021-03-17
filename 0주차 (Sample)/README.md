@@ -1,5 +1,14 @@
-0주차 공통 알고리즘 문제
+### 0주차 SMAPLE
+---
+문제 유형 
+- ?
+- ?
 
-1. https://www.acmicpc.net/problem/2557
-2. https://www.acmicpc.net/problem/10718
-3. https://www.acmicpc.net/problem/10171
+| 문제 | link |
+| ------ | ------ |
+| ? | https://www.acmicpc.net/ |
+| ? | https://www.acmicpc.net/ |
+| ? | https://www.acmicpc.net/ |
+| ? | https://www.acmicpc.net/ |
+| 백준 | https://www.acmicpc.net/ |
+---
