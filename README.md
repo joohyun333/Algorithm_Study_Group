@@ -24,7 +24,8 @@
 - [이연오 (cakeme)](https://github.com/cakeme)
 - [이재환 (jaehwlee)](https://github.com/jaehwlee)
 - [김지은 (kimje0322)](https://github.com/kimje0322)
-
+- [이재환 (jaehwlee)](https://avatars.githubusercontent.com/u/33409264?s=400&u=68951116dc96644385cafc0175bb1a00b04556e5&v=4)
+<img alt="test" src="https://avatars.githubusercontent.com/u/73391410?s=400&u=186e91ae9227ded5501eae9901f1b1c22581834b&v=4"/>
 # 알고리즘 스터디 문제 진행 방식 :trollface:
 - 해당 주에 풀이할 문제 유형 선택
 - 문제 유형에 알맞은 5문제 출제
