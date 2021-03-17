@@ -29,7 +29,7 @@
 - [김지은 (kimje0322)](https://github.com/kimje0322)
 - [이재환 (jaehwlee)](https://github.com/jaehwlee)
 
-## Contributors ✨
+## :family: 참여자들 :family:
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
