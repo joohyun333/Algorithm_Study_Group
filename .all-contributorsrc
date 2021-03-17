@@ -15,6 +15,15 @@
         "doc",
         "infra"
       ]
+    },
+    {
+      "login": "jaehwlee",
+      "name": "Jaehwan Lee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33409264?v=4",
+      "profile": "https://github.com/jaehwlee",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
