@@ -25,9 +25,9 @@
 - [이재환 (jaehwlee)](https://github.com/jaehwlee)
 - [김지은 (kimje0322)](https://github.com/kimje0322)
 - [이재환 (jaehwlee)](https://github.com/jaehwlee)
-- 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+
+<a href="https://github.com/joohyun333/Algorithm_Study_Group/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=joohyun333/Algorithm_Study_Group" />
 </a>
 
 Made with [contributors-img](https://contrib.rocks).
