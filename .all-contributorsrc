@@ -15,6 +15,15 @@
         "doc",
         "infra"
       ]
+    },
+    {
+      "login": "gumsu",
+      "name": "gumsu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49813916?v=4",
+      "profile": "https://github.com/gumsu",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
