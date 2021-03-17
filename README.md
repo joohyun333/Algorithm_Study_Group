@@ -18,12 +18,12 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 # :family: 참여자들 :family:
-- [이주현](https://github.com/joohyun333)
-- [김지수](https://github.com/jisus189)
-- [구도희](https://github.com/gumsu)
-- [이연오](https://github.com/cakeme)
-- [이재환](https://github.com/jaehwlee)
-- [김지은](https://github.com/kimje0322)
+- [이주현 (joohyun333)](https://github.com/joohyun333)
+- [김지수 (jisus189)](https://github.com/jisus189)
+- [구도희 (gumsu)](https://github.com/gumsu)
+- [이연오 (cakeme)](https://github.com/cakeme)
+- [이재환 (jaehwlee)](https://github.com/jaehwlee)
+- [김지은 (kimje0322)](https://github.com/kimje0322)
 
 # 알고리즘 스터디 문제 진행 방식 :trollface:
 - 해당 주에 풀이할 문제 유형 선택
