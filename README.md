@@ -1,6 +1,6 @@
 # Structure Directory
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## 알고리즘 스터디 Public Repository
 ```
@@ -68,6 +68,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/joohyun333"><img src="https://avatars.githubusercontent.com/u/58985553?v=4?s=100" width="100px;" alt=""/><br /><sub><b>joohyun333</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=joohyun333" title="Code">💻</a> <a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=joohyun333" title="Documentation">📖</a> <a href="#infra-joohyun333" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://github.com/kimje0322"><img src="https://avatars.githubusercontent.com/u/60080676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kimjeeeun</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=kimje0322" title="Code">💻</a></td>
   </tr>
 </table>
 
