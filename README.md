@@ -25,6 +25,12 @@
 - [이재환 (jaehwlee)](https://github.com/jaehwlee)
 - [김지은 (kimje0322)](https://github.com/kimje0322)
 - [이재환 (jaehwlee)](https://github.com/jaehwlee)
+- 
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
 
 # 알고리즘 스터디 문제 진행 방식 :trollface:
 - 해당 주에 풀이할 문제 유형 선택
