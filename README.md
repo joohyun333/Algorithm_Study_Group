@@ -24,7 +24,7 @@
 - [이연오](https://github.com/cakeme)
 - [이재환](https://github.com/jaehwlee)
 - [김지은](https://github.com/kimje0322)
-- 
+
 # 알고리즘 스터디 문제 진행 방식 :trollface:
 - 해당 주에 풀이할 문제 유형 선택
 - 문제 유형에 알맞은 5문제 출제
