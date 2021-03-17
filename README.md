@@ -29,6 +29,25 @@
 - [김지은 (kimje0322)](https://github.com/kimje0322)
 - [이재환 (jaehwlee)](https://github.com/jaehwlee)
 
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/joohyun333"><img src="https://avatars.githubusercontent.com/u/58985553?v=4?s=100" width="100px;" alt=""/><br /><sub><b>joohyun333</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=joohyun333" title="Code">💻</a> <a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=joohyun333" title="Documentation">📖</a> <a href="#infra-joohyun333" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
     
 # 알고리즘 스터디 문제 진행 방식 :trollface:
 - 해당 주에 풀이할 문제 유형 선택
@@ -57,23 +76,3 @@
 | 애너그램 | https://www.acmicpc.net/problem/6443 |
 | 종이 조각 | https://www.acmicpc.net/problem/14391 |
 ---
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/joohyun333"><img src="https://avatars.githubusercontent.com/u/58985553?v=4?s=100" width="100px;" alt=""/><br /><sub><b>joohyun333</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=joohyun333" title="Code">💻</a> <a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=joohyun333" title="Documentation">📖</a> <a href="#infra-joohyun333" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
