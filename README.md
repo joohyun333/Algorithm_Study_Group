@@ -26,12 +26,23 @@
 - [김지은 (kimje0322)](https://github.com/kimje0322)
 - [이재환 (jaehwlee)](https://github.com/jaehwlee)
 
-<a href="https://github.com/joohyun333/Algorithm_Study_Group/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=joohyun333/Algorithm_Study_Group" />
-</a>
-
-Made with [contributors-img](https://contrib.rocks).
-
+{
+  "files": ["README.md"],
+  "imageSize": 100,
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "types": {
+    "custom": {
+      "symbol": "🔭",
+      "description": "A custom contribution type.",
+      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+    }
+  },
+  "skipCi": "true",
+  "contributors": []
+}
 # 알고리즘 스터디 문제 진행 방식 :trollface:
 - 해당 주에 풀이할 문제 유형 선택
 - 문제 유형에 알맞은 5문제 출제
