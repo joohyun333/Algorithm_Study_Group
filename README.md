@@ -24,7 +24,6 @@
 ## :family: 참여자들 :family:
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-https://github.com/cakememakeme
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -33,7 +32,7 @@ https://github.com/cakememakeme
     <td align="center"><a href="https://github.com/joohyun333"><img src="https://avatars.githubusercontent.com/u/58985553?v=4?s=100" width="100px;" alt=""/><br /><sub><b>joohyun333</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=joohyun333" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/gumsu"><img src="https://avatars.githubusercontent.com/u/49813916?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gumsu</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=gumsu" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/jisus189"><img src="https://avatars.githubusercontent.com/u/44248084?s=400&v=4" width="100px;" alt=""/><br /><sub><b>jisus189</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=jisus189" title="Code">💻</a></td>
-      <td align="center"><a href="https://github.com/cakememakeme"><img src="src="https://avatars.githubusercontent.com/u/73391410?s=400&u=186e91ae9227ded5501eae9901f1b1c22581834b&v=4" width="100px;" alt=""/><br /><sub><b>cakememakeme</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=cakememakeme" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/cakememakeme"><img src="https://avatars.githubusercontent.com/u/73391410?s=400&u=186e91ae9227ded5501eae9901f1b1c22581834b&v=4" width="100px;" alt=""/><br /><sub><b>cakememakeme</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=cakememakeme" title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/jaehwlee"><img src="https://avatars.githubusercontent.com/u/33409264?s=400&u=68951116dc96644385cafc0175bb1a00b04556e5&v=4" width="100px;" alt=""/><br /><sub><b>jaehwlee</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=jaehwlee" title="Code">💻</a> </td>
       <td align="center"><a href="https://github.com/kimje0322"><img src="https://avatars.githubusercontent.com/u/60080676?s=400&u=7d82b9700fd4ffbf338a282e2d14a86e6e2ad483&v=4" width="100px;" alt=""/><br /><sub><b>kimje0322</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=kimje0322" title="Code">💻</a></td>
   </tr>
