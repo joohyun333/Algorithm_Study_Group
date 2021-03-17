@@ -20,14 +20,6 @@
 ```
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-# :family: 참여자들 :family:
-- [이주현 (joohyun333)](https://github.com/joohyun333)
-- [김지수 (jisus189)](https://github.com/jisus189)
-- [구도희 (gumsu)](https://github.com/gumsu)
-- [이연오 (cakeme)](https://github.com/cakeme)
-- [이재환 (jaehwlee)](https://github.com/jaehwlee)
-- [김지은 (kimje0322)](https://github.com/kimje0322)
-- [이재환 (jaehwlee)](https://github.com/jaehwlee)
 
 ## :family: 참여자들 :family:
 
@@ -38,12 +30,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/joohyun333"><img src="https://avatars.githubusercontent.com/u/58985553?v=4?s=100" width="100px;" alt=""/><br /><sub><b>joohyun333</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=joohyun333" title="Code">💻</a> <a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=joohyun333" title="Documentation">📖</a> <a href="#infra-joohyun333" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-    <td align="center"><a href="https://github.com/gumsu"><img src="https://avatars.githubusercontent.com/u/49813916?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gumsu</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=gumsu" title="Code">💻</a> <a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=gumsu" title="Documentation">📖</a> <a href="#infra-gumsu" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-      <td align="center"><a href="https://github.com/jisus189"><img src="https://avatars.githubusercontent.com/u/44248084?s=400&v=4" width="100px;" alt=""/><br /><sub><b>jisus189</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=jisus189" title="Code">💻</a> <a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=jisus189" title="Documentation">📖</a> <a href="#infra-jisus189" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-      <td align="center"><a href="https://github.com/cakeme"><img src="src="https://avatars.githubusercontent.com/u/73256792?s=200&v=4" width="100px;" alt=""/><br /><sub><b>cakeme</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=cakeme" title="Code">💻</a> <a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=cakeme" title="Documentation">📖</a> <a href="#infra-cakeme" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-      <td align="center"><a href="https://github.com/jaehwlee"><img src="https://avatars.githubusercontent.com/u/33409264?s=400&u=68951116dc96644385cafc0175bb1a00b04556e5&v=4" width="100px;" alt=""/><br /><sub><b>jaehwlee</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=jaehwlee" title="Code">💻</a> <a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=jaehwlee" title="Documentation">📖</a> <a href="#infra-jaehwlee" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
-      <td align="center"><a href="https://github.com/kimje0322"><img src="https://avatars.githubusercontent.com/u/60080676?s=400&u=7d82b9700fd4ffbf338a282e2d14a86e6e2ad483&v=4" width="100px;" alt=""/><br /><sub><b>kimje0322</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=kimje0322" title="Code">💻</a> <a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=kimje0322" title="Documentation">📖</a> <a href="#infra-gumsu" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+    <td align="center"><a href="https://github.com/joohyun333"><img src="https://avatars.githubusercontent.com/u/58985553?v=4?s=100" width="100px;" alt=""/><br /><sub><b>joohyun333</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=joohyun333" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/gumsu"><img src="https://avatars.githubusercontent.com/u/49813916?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gumsu</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=gumsu" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/jisus189"><img src="https://avatars.githubusercontent.com/u/44248084?s=400&v=4" width="100px;" alt=""/><br /><sub><b>jisus189</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=jisus189" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/cakeme"><img src="src="https://avatars.githubusercontent.com/u/73256792?s=200&v=4" width="100px;" alt=""/><br /><sub><b>cakeme</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=cakeme" title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/jaehwlee"><img src="https://avatars.githubusercontent.com/u/33409264?s=400&u=68951116dc96644385cafc0175bb1a00b04556e5&v=4" width="100px;" alt=""/><br /><sub><b>jaehwlee</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=jaehwlee" title="Code">💻</a> </td>
+      <td align="center"><a href="https://github.com/kimje0322"><img src="https://avatars.githubusercontent.com/u/60080676?s=400&u=7d82b9700fd4ffbf338a282e2d14a86e6e2ad483&v=4" width="100px;" alt=""/><br /><sub><b>kimje0322</b></sub></a><br /><a href="https://github.com/joohyun333/Algorithm_Study_Group/commits?author=kimje0322" title="Code">💻</a></td>
   </tr>
 </table>
 
