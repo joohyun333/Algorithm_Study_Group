@@ -58,20 +58,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
  주1회 
  am 10:00- am 11:00 
 ```
-### 1주차 
----
-문제 유형 
-- Backtracking
-- Exhaustive-Search
 
-| 문제 | link |
-| ------ | ------ |
-| 큰 수 구성하기 | https://www.acmicpc.net/problem/18511 |
-| 꽃길 | https://www.acmicpc.net/problem/14620 |
-| 치킨 배달 | https://www.acmicpc.net/problem/15686 |
-| 애너그램 | https://www.acmicpc.net/problem/6443 |
-| 종이 조각 | https://www.acmicpc.net/problem/14391 |
----
 ### 2주차 
 ---
 문제 유형 
@@ -87,3 +74,17 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | 지구온난화 | https://www.acmicpc.net/problem/5212 |
 ---
 
+### 1주차 
+---
+문제 유형 
+- Backtracking
+- Exhaustive-Search
+
+| 문제 | link |
+| ------ | ------ |
+| 큰 수 구성하기 | https://www.acmicpc.net/problem/18511 |
+| 꽃길 | https://www.acmicpc.net/problem/14620 |
+| 치킨 배달 | https://www.acmicpc.net/problem/15686 |
+| 애너그램 | https://www.acmicpc.net/problem/6443 |
+| 종이 조각 | https://www.acmicpc.net/problem/14391 |
+---
