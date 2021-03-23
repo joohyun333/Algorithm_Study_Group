@@ -105,7 +105,7 @@ void update()
 
 void operateAirPurifier()
 {
-	// ³Ê¹« ±ÍÂú¾Ò½À´Ï´Ù...
+	// trash code
 	for (int y = upper - 1; 0 < y; --y)
 	{
 		room[y][0] = room[y - 1][0];
