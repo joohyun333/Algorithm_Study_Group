@@ -118,7 +118,7 @@ void solve()
 		mergePopulation();
 		++ans;
 	} while (sustainability);
-	--ans;
+	--ans; 
 }
 
 void output()
