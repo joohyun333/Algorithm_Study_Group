@@ -1,10 +1,12 @@
 # https://www.acmicpc.net/problem/14391
 import itertools, sys
+
 input = sys.stdin.readline
 N, M = map(int, input().split())
 arr = [input() for _ in range(N)]
 
 result = 0
+
 for m in itertools.product(itertools.product([0, 1], repeat=M), repeat=N):
     total = []
     for a in range(N):

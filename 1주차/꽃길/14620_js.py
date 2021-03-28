@@ -29,7 +29,7 @@ def dfs(visited, total):
                     temp=[]
                     temp_cost=0
                     for idx in range(5):
-                        
+                     
                         ni = i + direction[idx][0]
                         nj = j + direction[idx][1]
                         temp.append((ni, nj))
