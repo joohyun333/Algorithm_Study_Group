@@ -4,6 +4,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
+
 ## 알고리즘 스터디 Public Repository
 ```
     ├── 0주차 (Sample)
@@ -100,8 +101,11 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | 문제 | 티어 | link |
 | ------ | ------ |------ |
 | 큰 수 구성하기 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="16px;"> | https://www.acmicpc.net/problem/18511 |
-| 꽃길 | https://www.acmicpc.net/problem/14620 |
-| 치킨 배달 | https://www.acmicpc.net/problem/15686 |
-| 애너그램 | https://www.acmicpc.net/problem/6443 |
-| 종이 조각 | https://www.acmicpc.net/problem/14391 |
+| 꽃길 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="16px;"> | https://www.acmicpc.net/problem/14620 |
+| 치킨 배달 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="16px;"> | https://www.acmicpc.net/problem/15686 |
+| 애너그램 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="16px;"> | https://www.acmicpc.net/problem/6443 |
+| 종이 조각 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="16px;"> | https://www.acmicpc.net/problem/14391 |
 ---
+
+<!-- 실버1 --> <!-- 실버2 "https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" --><!-- 실버3 --><!-- 실버4 --><!-- 실버5 "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" -->
+<!-- 골드1 --> <!-- 골드2 --> <!-- 골드3 "https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" --> <!-- 골드4 --> <!-- 골드5 "https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" --> 
