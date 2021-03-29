@@ -12,6 +12,9 @@ for i in range(1,N+1):
     arr.append(list(a))
 arr.append(["."] * (C + 2))
 
+for i in arr:
+    print(''.join(i))
+
 direction = [(-1, 0), (1, 0), (0, -1), (0, 1)]
 after_50_years = copy.deepcopy(arr)
 
@@ -34,6 +37,7 @@ for i, j in new_land:
     if i < min_y: min_y = i
     if j > max_x: max_x = j
     if j < min_x: min_x = j
+
 
 for i in [i[min_x:max_x+1] for i in after_50_years[min_y: max_y+1]]:
     print(''.join(i))
