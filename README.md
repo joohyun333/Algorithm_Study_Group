@@ -61,6 +61,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
  주1회 
  am 10:00- am 11:00 
 ```
+<!-- 티어 "https://d2gd6pc034wcta.cloudfront.net/tier/?.svg" -->
+<!-- 실버1 10 --> <!-- 실버2 9 --><!-- 실버3 8--><!-- 실버4 7 --><!-- 실버5 6 -->
+<!-- 골드1 15 --> <!-- 골드2 14 --> <!-- 골드3 13--> <!-- 골드4 12 --> <!-- 골드5 11 --> 
 
 ### 3주차 
 ---
@@ -68,13 +71,13 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 - DFS
 - BFS
 
-| 문제 | link |
-| ------ | ------ |
-| 순열 사이클 | https://www.acmicpc.net/problem/10451 |
-| 미로 탐색 | https://www.acmicpc.net/problem/2178 |
-| 파이프 옮기기 1 | https://www.acmicpc.net/problem/17070 |
-| 움직이는 미로 탈출 | https://www.acmicpc.net/problem/16954 |
-| 벽 부수고 이동하기 | https://www.acmicpc.net/problem/2206 |
+| 문제 | 티어 | link |
+| ------ | ------ |------ |
+| 순열 사이클 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="16px;"> | https://www.acmicpc.net/problem/10451 |
+| 미로 탐색 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="16px;"> | https://www.acmicpc.net/problem/2178 |
+| 파이프 옮기기 1 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="16px;"> | https://www.acmicpc.net/problem/17070 |
+| 움직이는 미로 탈출 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="16px;"> | https://www.acmicpc.net/problem/16954 |
+| 벽 부수고 이동하기 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="16px;"> | https://www.acmicpc.net/problem/2206 |
 ---
 
 ### 2주차 
@@ -83,13 +86,13 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 - simulation
 - Division and conquer
 
-| 문제 | link |
-| ------ | ------ |
-| 미세먼지 안녕! | https://www.acmicpc.net/problem/17144 |
-| 쿼드트리 | https://www.acmicpc.net/problem/1992 |
-| 인구이동 | https://www.acmicpc.net/problem/16234 |
-| 감시 | https://www.acmicpc.net/problem/15683 |
-| 지구온난화 | https://www.acmicpc.net/problem/5212 |
+| 문제 | 티어 | link |
+| ------ | ------ |------ |
+| 미세먼지 안녕! | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="16px;"> | https://www.acmicpc.net/problem/17144 |
+| 쿼드트리 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="16px;"> | https://www.acmicpc.net/problem/1992 |
+| 인구이동 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="16px;"> | https://www.acmicpc.net/problem/16234 |
+| 감시 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="16px;"> | https://www.acmicpc.net/problem/15683 |
+| 지구온난화 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="16px;"> | https://www.acmicpc.net/problem/5212 |
 ---
 
 ### 1주차 
@@ -106,6 +109,3 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 | 애너그램 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="16px;"> | https://www.acmicpc.net/problem/6443 |
 | 종이 조각 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="16px;"> | https://www.acmicpc.net/problem/14391 |
 ---
-
-<!-- 실버1 --> <!-- 실버2 "https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" --><!-- 실버3 --><!-- 실버4 --><!-- 실버5 "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" -->
-<!-- 골드1 --> <!-- 골드2 --> <!-- 골드3 "https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" --> <!-- 골드4 --> <!-- 골드5 "https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" --> 
