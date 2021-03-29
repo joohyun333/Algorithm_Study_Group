@@ -3,6 +3,7 @@
 문제 유형 
 - Backtracking
 - Exhaustive-Search
+
 | <center>문제</center> | <center>티어</center> | <center>link</center> |
 | ------ | ------ |------ |
 | 큰 수 구성하기 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="16px;"> | https://www.acmicpc.net/problem/18511 |
