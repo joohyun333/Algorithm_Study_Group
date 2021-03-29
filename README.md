@@ -73,7 +73,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 | <center>문제</center> | <center>티어</center> | <center>link</center> |
 | ------ | ------ |------ |
-| 순열 사이클 | <a align="center"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="16px;" alt=""/></a> | https://www.acmicpc.net/problem/10451 |
+| 순열 사이클 | <p align="center"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="16px;" alt=""/></p> | https://www.acmicpc.net/problem/10451 |
 | 미로 탐색 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="16px;"> | https://www.acmicpc.net/problem/2178 |
 | 파이프 옮기기 1 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="16px;"> | https://www.acmicpc.net/problem/17070 |
 | 움직이는 미로 탈출 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="16px;"> | https://www.acmicpc.net/problem/16954 |
@@ -86,7 +86,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 - simulation
 - Division and conquer
 
-| 문제 | 티어 | link |
+| <center>문제</center> | <center>티어</center> | <center>link</center> |
 | ------ | ------ |------ |
 | 미세먼지 안녕! | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="16px;"> | https://www.acmicpc.net/problem/17144 |
 | 쿼드트리 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="16px;"> | https://www.acmicpc.net/problem/1992 |
@@ -101,7 +101,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 - Backtracking
 - Exhaustive-Search
 
-| 문제 | 티어 | link |
+| <center>문제</center> | <center>티어</center> | <center>link</center> |
 | ------ | ------ |------ |
 | 큰 수 구성하기 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="16px;"> | https://www.acmicpc.net/problem/18511 |
 | 꽃길 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="16px;"> | https://www.acmicpc.net/problem/14620 |
