@@ -99,7 +99,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 | 문제 | 티어 | link |
 | ------ | ------ |------ |
-| 큰 수 구성하기 | (https://d2gd6pc034wcta.cloudfront.net/tier/6.svg) | https://www.acmicpc.net/problem/18511 |
+| 큰 수 구성하기 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"> | https://www.acmicpc.net/problem/18511 |
 | 꽃길 | https://www.acmicpc.net/problem/14620 |
 | 치킨 배달 | https://www.acmicpc.net/problem/15686 |
 | 애너그램 | https://www.acmicpc.net/problem/6443 |
