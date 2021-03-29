@@ -70,12 +70,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 문제 유형 
 - DFS
 - BFS
-<table>
-</table
-<tr>
-    <td align="center"></td>
-</tr>
-
 
 | <center>문제</center> | <center>티어</center> | <center>link</center> |
 | ------ | ------ |------ |
