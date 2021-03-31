@@ -2,11 +2,11 @@ import sys
 import copy
 input = sys.stdin.readline
 R, C = map(int, input().split())
+# data = [['.' for _ in range(C+2)]]+[['.']+list(input())+['.'] for _ in range(R)] + [['.' for _ in range(C+2)]]
 data = [list('.'*(C+2))]
 for _ in range(R):
-    data.append(['.']+list(input())+['.'])
+    data.append(['.']+list(input().strip())+['.'])
 data.append(list('.'*(C+2)))
-
 new_map = copy.deepcopy(data)
 direction = [(-1,0),(1,0),(0,-1),(0,1)]
 for i in range(1,R+1):
@@ -20,8 +20,8 @@ for i in range(1,R+1):
                 if cnt >= 3:
                     new_map[i][j] = '.'
                     break
+
 new_map = new_map[1:len(new_map)-1]
-print(new_map)
 xlst, ylst = [], []
 for i in range(len(new_map)):
     for j in range(len(new_map[0])):
@@ -30,4 +30,3 @@ for i in range(len(new_map)):
             ylst.append(i)
 for ele in new_map[min(ylst):max(ylst)+1]:
     print(''.join(ele[min(xlst):max(xlst)+1]))
-
