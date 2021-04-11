@@ -1,6 +1,4 @@
-import sys
-sys.setrecursionlimit(2500)
-
+# python으로 하면 시간초과, pypy로 해야 통과
 n = int(input())
 pipe_map = [list(map(int, input().split())) for _ in range(n)]
 
@@ -29,5 +27,3 @@ def dfs(x, y, d):
 answer = 0
 dfs(0, 1, 'right')
 print(answer)
-  
-
