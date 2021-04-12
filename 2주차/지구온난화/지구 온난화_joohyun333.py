@@ -12,8 +12,6 @@ for i in range(1,N+1):
     arr.append(list(a))
 arr.append(["."] * (C + 2))
 
-for i in arr:
-    print(''.join(i))
 
 direction = [(-1, 0), (1, 0), (0, -1), (0, 1)]
 after_50_years = copy.deepcopy(arr)

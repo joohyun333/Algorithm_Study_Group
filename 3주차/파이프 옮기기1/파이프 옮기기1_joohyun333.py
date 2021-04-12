@@ -34,5 +34,8 @@ def pipe(y, x):
 for i in range(N):
     for j in range(N):
         pipe(i, j)
+        for z in DP:
+            print(z)
+        print(",,,,,,,,,,,,,,,,,,")
 
 print(sum(DP[N-1][N-1]))
