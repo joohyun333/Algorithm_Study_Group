@@ -59,7 +59,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## 스터디 
 ```
  주1회 
- am 10:00- am 11:00 
+ am 10:00- am 12:00 
 ```
 <!-- 티어 "https://d2gd6pc034wcta.cloudfront.net/tier/?.svg" -->
 <!-- 실버1 10 --> <!-- 실버2 9 --><!-- 실버3 8--><!-- 실버4 7 --><!-- 실버5 6 -->
