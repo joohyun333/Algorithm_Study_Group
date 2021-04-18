@@ -16,7 +16,8 @@ def solution(r,c,board):
     for i in range(now_r):
         for j in range(now_c):
             print(temp[i][j],end="")
-        print("\n")
+        print()
+
     return
 
 def chk_land(land,temp):
@@ -47,18 +48,23 @@ def squeeze_map(land):
         return land[0][0],land[0][1],land
     elif len(land)==0:
         return 1,1,'.'
+
     for i,j in land:
         land_x.append(i)
         land_y.append(j)
+
     land_x.sort()
     land_y.sort()
 
-    temp_board=[['.'] * land_y[-1] for _ in range(land_x[-1])]
+    max_x = land_x[len(land_x)-1]
+    max_y = land_y[len(land_y)-1]
+
+    temp_board=[['.'] * max_y for _ in range(max_x)]
 
     for i,j in land:
-        temp_board[i-land_x[0]][j-land_y[0]]="X"
+        temp_board[i-land_x[0]][j-land_y[0]] = "X"
 
-    return land_x[-1],land_y[-1],temp_board
+    return max_x,max_y,temp_board
 
 if __name__=="__main__":
     r,c = map(int,sys.stdin.readline().split())

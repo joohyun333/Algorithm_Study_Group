@@ -24,6 +24,12 @@ def solution():
                 elif board[nx][ny] == 0 and visited[nx][ny][w] == 0:
                     visited[nx][ny][w] = visited[x][y][w] + 1
                     q.append([nx, ny, w])
+        print("(",x,',',y,")")
+        for i in range(n):
+            for j in range(m):
+                print(visited[i][j], end="")
+            print("")
+        print("")
 
     return -1
 

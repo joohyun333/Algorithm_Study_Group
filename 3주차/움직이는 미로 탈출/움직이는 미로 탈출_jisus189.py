@@ -15,6 +15,7 @@ def bfs():
 
     while nq:
         visited = [[0]* n for _ in range(n)]
+
         # move
         temp=deque()
         for _ in range(len(nq)):
