@@ -27,7 +27,6 @@ def dfs(board,count):
     global answer, cctv_count,n,m, cctv
     temp = board[:]
 
-
     if count == cctv_count:
         answer=min(answer,board.count(0))
         return

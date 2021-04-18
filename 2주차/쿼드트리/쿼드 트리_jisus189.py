@@ -1,6 +1,5 @@
 import sys
 
-
 def solution(x, y, size):
     global board, n, answer
     chk = board[x][y]
@@ -17,6 +16,7 @@ def solution(x, y, size):
                     return
             else:
                 continue
+
     answer += str(chk)
     return
 
