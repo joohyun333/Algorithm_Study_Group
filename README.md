@@ -65,6 +65,21 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 <!-- 실버1 10 --> <!-- 실버2 9 --><!-- 실버3 8--><!-- 실버4 7 --><!-- 실버5 6 -->
 <!-- 골드1 15 --> <!-- 골드2 14 --> <!-- 골드3 13--> <!-- 골드4 12 --> <!-- 골드5 11 --> 
 
+
+### 5주차 
+---
+문제 유형 
+- Dynamic Programming
+
+| <center>문제</center> | <center>티어</center> | <center>link</center> |
+| ------ | ------ |------ |
+| N으로 표현 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="16px;" alt=""/> | https://programmers.co.kr/learn/courses/30/lessons/42895?language=python3 |
+| 전깃줄 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="16px;"> | https://www.acmicpc.net/problem/1520 |
+| 제곱수 찾기 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="16px;"> | https://www.acmicpc.net/problem/1025 |
+| 내리막 길 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="16px;"> | https://www.acmicpc.net/problem/2470 |
+| 돌다리 건너기 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="16px;"> | https://www.acmicpc.net/problem/2602 |
+---
+
 ### 4주차 
 ---
 문제 유형 
