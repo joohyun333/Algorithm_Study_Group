@@ -73,7 +73,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 | <center>문제</center> | <center>티어</center> | <center>link</center> |
 | ------ | ------ |------ |
-| N으로 표현 | <img src="/assets/bi-symbol-light-49a242793b7a8b540cfc3489b918e3bb2a6724f1641572c14c575265d7aeea38.png" width="16px;" alt=""/> level 3 | https://programmers.co.kr/learn/courses/30/lessons/42895?language=python3 |
+| N으로 표현 | <img src="https://programmers.co.kr//assets/bi-design-dark-afa67ed43030d51601ec10d79d220dd8ae007b770f629abfb46b209ea8022712.png" width="16px;" alt=""/> level 3 | https://programmers.co.kr/learn/courses/30/lessons/42895?language=python3 |
 | 전깃줄 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="16px;"> | https://www.acmicpc.net/problem/1520 |
 | 제곱수 찾기 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="16px;"> | https://www.acmicpc.net/problem/1025 |
 | 내리막 길 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="16px;"> | https://www.acmicpc.net/problem/2470 |
