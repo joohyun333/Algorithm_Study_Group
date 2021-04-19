@@ -3,6 +3,8 @@ house = []
 for _ in range(n):
   house.append(int(input()))
 
+house.sort()
+
 start = 1
 end = house[-1] - house[0]
 
