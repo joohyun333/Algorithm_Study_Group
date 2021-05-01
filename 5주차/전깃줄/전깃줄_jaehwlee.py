@@ -7,8 +7,7 @@ for _ in range(n):
 
 
 def solution(n):
-  e_lines.sort()
-  e_lines = e_lines.sort(key=lambda x: x[1])
+  e_lines.sort(key=lambda x: x[1])
   max_len = [1] * n
   for i in range(1, n):
     for j in range(i):
