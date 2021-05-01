@@ -1,3 +1,6 @@
+import sys
+sys.setrecursionlimit(1e9)
+
 n, m = map(int, input().split())
 my_map = [list(map(int, input().split())) for _ in range(n)]
 
