@@ -7,15 +7,16 @@ def sliding_window(lst, d, k):
         arr = []
         end = lst[i] + d
         a = bisect.bisect_right(lst, end) - 1
-        if 0 <= a < len(lst) and lst[a] == end:
+        if 0 <= a < len(lst) and i < a and lst[a] <= end:
             idx_num = k-2
-            new_lst = lst[i+1:a-1]
+            new_lst = lst[i+1:a]
             arr.append(lst[i])
-            arr.append(end)
+            arr.append(lst[a])
             while idx_num > 0 and new_lst:
                 arr.append(new_lst.pop(0))
                 idx_num -= 1
         if len(arr) == k:
+            print(arr)
             min_aver = min(min_aver, sum(arr) // k)
 
     return min_aver
@@ -63,4 +64,4 @@ print(solution(prices, d, k))
 
 prices, d, k = [1, 8, 1, 8, 1, 10, 10], 6, 4
 print(solution(prices, d, k))
-# 8
+# 9
