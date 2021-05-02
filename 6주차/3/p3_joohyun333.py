@@ -7,7 +7,7 @@ def sliding_window(lst, d, k):
         arr = []
         end = lst[i] + d
         a = bisect.bisect_right(lst, end) - 1
-        if 0 <= a < len(lst) and i < a and lst[a] <= end:
+        if 0 <= a < len(lst) and i < a:
             idx_num = k-2
             new_lst = lst[i+1:a]
             arr.append(lst[i])
