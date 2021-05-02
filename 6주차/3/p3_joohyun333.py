@@ -48,9 +48,13 @@ print(solution(prices, d, k))
 prices, d, k = [8, 4, 5, 7, 6], 1, 3
 print(solution(prices, d, k))
 # # 6
-prices, d, k = [1, 8, 1, 8, 1, 8], 6, 4
+prices, d, k = [1, 8, 1, 8, 1, 10], 6, 4
 print(solution(prices, d, k))
 # 1
+
+prices, d, k = [1, 8, 1, 8, 8], 6, 4
+print(solution(prices, d, k))
+# 8
 
 prices, d, k = [8, 8, 8, 8, 8, 8, 8], 0, 1
 print(solution(prices, d, k))
