@@ -74,7 +74,6 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ### 7주차 
 ---
-DP 연습 및 기업 코딩테스트 준비
 | <center>문제</center> | <center>티어</center> | <center>link</center> |
 | ------ | ------ |------ |
 | LCS3 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="16px;"> | https://www.acmicpc.net/problem/1958 |
