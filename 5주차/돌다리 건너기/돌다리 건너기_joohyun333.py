@@ -23,7 +23,7 @@ def DP(key_idx, bridge_idx, name):
                 # print(key_idx, bridge_idx, DP_name)
                 count += DP(key_idx + 1, i + 1, opposite_name)
                 DP_name[key_idx][bridge_idx] = count
-                # print(key_idx, bridge_idx, DP_name)
+                print(key_idx, bridge_idx, DP_name, count, bridge_name)
     return count
 
 DP_angel = [[-1] * n for _ in range(len(key))]

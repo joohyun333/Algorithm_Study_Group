@@ -12,10 +12,12 @@ def solution(sentence, keyword, skips):
                 n_skips.append(n)
             break
         total_len += 1
+    print(n_skips)
 
     for i in range(len(n_skips)):
         n = sentence[0:n_skips[i]] + keyword[i % len(keyword)] + sentence[n_skips[i]:]
         sentence = n
+    print(sentence)
 
     arr = [n_skips[0]]
     keyword_idx = 1
@@ -28,6 +30,7 @@ def solution(sentence, keyword, skips):
                 break
         arr.append(count)
         keyword_idx += 1
+    # print(arr)
     for i in range(len(arr)):
         n = basic[0:arr[i]] + keyword[i % len(keyword)] + basic[arr[i]:]
         basic = n
@@ -35,28 +38,36 @@ def solution(sentence, keyword, skips):
     return basic
 
 
-sentence = "i love coding"
-keyword = "mask"
-skips = [0, 0, 3, 2, 3, 4]
+# sentence = "i love coding"
+# keyword = "mask"
+# skips = [0, 0, 3, 2, 3, 4]
 #mai lsovke cmodinag
 
-sentence = "i love coding"
+# sentence = "i love coding"
+# keyword = "mode"
+# skips = [0, 10]
+# #mi loove coding
+
+# sentence ="abcde fghi"
+# keyword ="xyz"
+# skips =[10,0,1]
+# #abcde fghixy
+#
+# sentence ="encrypt this sentence"
+# keyword ="something"
+# skips =[0,1,3,2,1,2,0,3,0,2,4,1,3]
+# #seoncrmypett thihisng ssenteonmcee
+#
+# sentence ="encrypt this sentencee"
+# keyword ="something"
+# skips =[0,1,3,2,1,2,0,3,0,2,4,1,3]
+# #seoncrmypett thihisng ssenteonmceee
+# sentence ="bbbbb"
+# keyword ="aaaa"
+# skips =[2,3,1]
+# #bbabbba
+
+sentence = "i loove coding"
 keyword = "mode"
-skips = [0, 10]
-#mi loove coding
-
-sentence ="abcde fghi"
-keyword ="xyz"
-skips =[10,0,1]
-#abcde fghixy
-
-sentence ="encrypt this sentence"
-keyword ="something"
-skips =[0,1,3,2,1,2,0,3,0,2,4,1,3]
-#seoncrmypett thihisng ssenteonmcee
-
-sentence ="bbbbb"
-keyword ="aaaa"
-skips =[2,3,1]
-#bbabbba
+skips = [0, 3, 5, 10]
 print(solution(sentence, keyword, skips))
