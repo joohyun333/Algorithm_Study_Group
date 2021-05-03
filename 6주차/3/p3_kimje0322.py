@@ -23,7 +23,7 @@ def solution(prices,d,k):
                     tmp += prices[idx]
                 if len(queue) == k:
                     min_num = queue[0]
-                    max_num = prices[idx]
+                    max_num = queue[-1]
                     if max_num - min_num <= d:
                         answer = tmp // len(queue)
                         flag = True
