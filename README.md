@@ -48,13 +48,19 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
     
-# 알고리즘 스터디 문제 진행 방식 :trollface:
+# 알고리즘 스터디 문제 진행 방식 :trollface: (-05/03)
 - 해당 주에 풀이할 문제 유형 선택
 - 문제 유형에 알맞은 5문제 출제
 - 해당 문제 풀이 및 검토
 - 해당 문제 솔루션 코드 Public Repository upload :file_folder:
 - 코드리뷰 :sweat_drops:
 - 솔루션 및 풀이 과정 질문 :raising_hand:
+
+# 알고리즘 스터디 문제 진행 방식 (05/10-)
+- 1시간 내로 문제 풀기(백준 solved.ac 기준 실버 1문제, 골드 1문제) (10:00 - 11:00)
+- 푼 문제 및 해당 주차 문제 코드 리뷰 (11:00 - 12:00)
+- 솔루션 및 풀이 과정 질문 :raising_hand:
+- 주 단위로 풀 문제(1-2문제) 출제
 
 ## 스터디 
 ```
@@ -64,6 +70,14 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 <!-- 티어 "https://d2gd6pc034wcta.cloudfront.net/tier/?.svg" -->
 <!-- 실버1 10 --> <!-- 실버2 9 --><!-- 실버3 8--><!-- 실버4 7 --><!-- 실버5 6 -->
 <!-- 골드1 15 --> <!-- 골드2 14 --> <!-- 골드3 13--> <!-- 골드4 12 --> <!-- 골드5 11 --> 
+
+
+### 7주차 
+---
+| <center>문제</center> | <center>티어</center> | <center>link</center> |
+| ------ | ------ |------ |
+| LCS3 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="16px;"> | https://www.acmicpc.net/problem/1958 |
+---
 
 ### 6주차 
 ---
