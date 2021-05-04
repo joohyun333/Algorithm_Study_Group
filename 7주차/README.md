@@ -1,14 +1,7 @@
-### 0주차 SMAPLE
----
-문제 유형 
-- ?
-- ?
 
-| 문제 | link |
-| ------ | ------ |
-| ? | https://www.acmicpc.net/ |
-| ? | https://www.acmicpc.net/ |
-| ? | https://www.acmicpc.net/ |
-| ? | https://www.acmicpc.net/ |
-| 백준 | https://www.acmicpc.net/ |
+### 7주차 
+---
+| <center>문제</center> | <center>티어</center> | <center>link</center> |
+| ------ | ------ |------ |
+| LCS3 | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="16px;"> | https://www.acmicpc.net/problem/1958 |
 ---
