@@ -56,7 +56,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 - 코드리뷰 :sweat_drops:
 - 솔루션 및 풀이 과정 질문 :raising_hand:
 
-# 알고리즘 스터디 문제 진행 방식 (05/10-)
+# 알고리즘 스터디 문제 진행 방식 (05/10(8주차)-)
 - 1시간 내로 문제 풀기(백준 solved.ac 기준 실버 1문제, 골드 1문제) (10:00 - 11:00)
 - 푼 문제 및 해당 주차 문제 코드 리뷰 (11:00 - 12:00)
 - 솔루션 및 풀이 과정 질문 :raising_hand:
