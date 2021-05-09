@@ -3,7 +3,7 @@
 문제 유형 
 - ?
 - ?
-| Limited_Time_PS |
+Limited_Time_PS 
 | 문제 | link |
 | ------ | ------ |
 | ? | https://www.acmicpc.net/ |
@@ -16,7 +16,7 @@
 문제 유형 
 - ?
 - ?
-| Week_PS |
+Week_PS
 | 문제 | link |
 | ------ | ------ |
 | ? | https://www.acmicpc.net/ |
