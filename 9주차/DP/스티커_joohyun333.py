@@ -6,7 +6,6 @@ for _ in range(int(input())):
     n = int(input())
     for i in range(2):
         arr.append(list(map(int, input().split())))
-    result = []
     DP = [[0] * (n + 1) for _ in range(2)]
     DP[0][1] = arr[0][0]
     DP[1][1] = arr[1][0]
